@@ -10,7 +10,7 @@ Why am i Interested Specifically in Programming ?:
     Well, it started when i discovered something called "cmd" and "BatchScript"
     And i started discovering about "Programming Languages" and "Computer Sceince"
     And more i discover more i question, so for the begining to be "Computer nerd"
-    i Studyid For the First Time the Famous Programming Language "Python",
+    i Studied For the First Time the Famous Programming Language "Python",
     well, when i lied when i said i've studyid in Fact i remembered that i Hate Studying!
     i've just learnet some Python code that only outpot the word "Hello World!",
     And with the passage of years, i've Learnet something called "C# Programming Language"
